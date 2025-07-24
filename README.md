@@ -5,7 +5,7 @@ This repository contains Java Spring Boot projects that demonstrate RESTful API 
 
 
 🚀 Technologies & Tools
-Java 17, Spring Boot, Spring Web, RestTemplate, OpenWeatherMap API, Gradle, Postman, IntelliJ IDEA
+Java 17, Spring Boot, Spring Web, RestTemplate, API, Gradle, Postman, IntelliJ IDEA
 
 ### 📂 Weather API Project
 #### 1️⃣ Java Spring Boot – Real-time Weather App
