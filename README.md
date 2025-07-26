@@ -23,7 +23,7 @@ Java 17, Spring Boot, Spring Web, RestTemplate, API, Gradle, Postman, IntelliJ I
 
 ### 📂 To-Do App Project
 #### 2 Java Spring Boot – Task Management REST API
-#### 📌 Folder: /src/main/java/com/example/todoapp
+#### 📌 Folder: /src/main/java/com/org/TodoApp/Project
 #### 🔹 Objective: Build a CRUD-based RESTful API to manage to-do tasks using Spring Boot and MySQL.
 #### 🔹 Features & Techniques Used:
 #### REST API with:
