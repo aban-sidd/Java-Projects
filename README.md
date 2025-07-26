@@ -27,7 +27,7 @@ Java 17, Spring Boot, Spring Web, RestTemplate, API, Gradle, Postman, IntelliJ I
 #### 🔹 Objective: Build a CRUD-based RESTful API to manage to-do tasks using Spring Boot and MySQL.
 #### 🔹 Features & Techniques Used:
 #### REST API with:
-<ul style="margin-left: 50px;">
+<ul style="margin-right: 50px;">
   <li>GET /api/todo – Retrieve all tasks</li>
   <li>GET /api/todo/{id} – Retrieve a single task by ID</li>
   <li>POST /api/todo – Create a new task</li>
