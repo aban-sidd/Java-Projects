@@ -8,7 +8,7 @@ This repository contains Java Spring Boot projects that demonstrate RESTful API 
 Java 17, Spring Boot, Spring Web, RestTemplate, API, Gradle, Postman, IntelliJ IDEA
 
 ### 📂 Weather API Project
-#### 1️⃣ Java Spring Boot – Real-time Weather App
+#### 1 Java Spring Boot – Real-time Weather App
 #### 📌 Folder: /src/main/java/com/example/weatherapp
 #### 🔹 Objective: Build a RESTful API to fetch live weather data based on city name using OpenWeatherMap.
 #### 🔹 Features & Techniques Used:
@@ -21,3 +21,22 @@ Java 17, Spring Boot, Spring Web, RestTemplate, API, Gradle, Postman, IntelliJ I
 - Friendly fallback and response structure for root endpoint
 - Java best practices with proper naming and structure
 
+### 📂 To-Do App Project
+#### 2 Java Spring Boot – Task Management REST API
+#### 📌 Folder: /src/main/java/com/example/todoapp
+#### 🔹 Objective: Build a CRUD-based RESTful API to manage to-do tasks using Spring Boot and MySQL.
+#### 🔹 Features & Techniques Used:
+#### REST API with:
+- GET /api/todo – Retrieve all tasks
+- GET /api/todo/{id} – Retrieve a single task by ID
+- POST /api/todo – Create a new task
+- PUT /api/todo/{id} – Update an existing task
+- DELETE /api/todo/{id} – Delete a task
+
+- Spring Boot with Spring Web for backend API development
+- Spring Data JPA to connect and interact with MySQL database
+- application.properties for external configuration (DB credentials, JPA settings)
+- Entity-Relationship mapping using @Entity, @Id, and @GeneratedValue
+- Layered structure: Controller → Service → Repository → Entity
+- Automatic table creation using spring.jpa.hibernate.ddl-auto=update
+- Clean, maintainable code using Java naming and structural best practices
